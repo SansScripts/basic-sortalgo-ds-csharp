@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Sorting Algorithms -->
+    <Compile Include="SortingAlgorithms\BubbleSortExample.cs" />
+    <Compile Include="SortingAlgorithms\InsertionSortExample.cs" />
+    <Compile Include="SortingAlgorithms\MergeSortExample.cs" />
+    <Compile Include="SortingAlgorithms\QuickSortExample.cs" />
+    <Compile Include="SortingAlgorithms\HeapSortExample.cs" />
+
+    <!-- Data Structures -->
+    <Compile Include="DataStructures\ArrayExample.cs" />
+    <Compile Include="DataStructures\LinkedListExample.cs" />
+    <Compile Include="DataStructures\StackExample.cs" />
+    <Compile Include="DataStructures\QueueExample.cs" />
+
+    <!-- Other Files -->
+    <Compile Include="BinarySearchExample.cs" />
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+
+</Project>

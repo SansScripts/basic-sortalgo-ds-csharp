@@ -1,0 +1,15 @@
+/Users/hi/Documents/Csharp/bin/Debug/net7.0/Csharp
+/Users/hi/Documents/Csharp/bin/Debug/net7.0/Csharp.deps.json
+/Users/hi/Documents/Csharp/bin/Debug/net7.0/Csharp.runtimeconfig.json
+/Users/hi/Documents/Csharp/bin/Debug/net7.0/Csharp.dll
+/Users/hi/Documents/Csharp/bin/Debug/net7.0/Csharp.pdb
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/Csharp.csproj.AssemblyReference.cache
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/Csharp.AssemblyInfoInputs.cache
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/Csharp.AssemblyInfo.cs
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/Csharp.dll
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/refint/Csharp.dll
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/Csharp.pdb
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/Csharp.genruntimeconfig.cache
+/Users/hi/Documents/Csharp/obj/Debug/net7.0/ref/Csharp.dll
