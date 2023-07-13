@@ -35,18 +35,12 @@ To use the sorting algorithms or data structures, follow these steps:
 4. Use the provided methods to perform sorting or data manipulation as needed.
 5. Customize or extend the code to suit your specific requirements.
 
-Csharp/
-├── SortingAlgorithms/
-│   ├── BubbleSortExample.cs
-│   ├── InsertionSortExample.cs
-│   ├── MergeSortExample.cs
-│   ├── QuickSortExample.cs
-│   └── HeapSortExample.cs
-├── DataStructures/
-│   ├── ArrayExample.cs
-│   ├── LinkedListExample.cs
-│   ├── StackExample.cs
-│   └── QueueExample.cs
-├── BinarySearchExample.cs
-├── Program.cs
-└── Csharp.csproj
+
+The SortingAlgorithms/ directory contains implementation files for various sorting algorithms, including BubbleSortExample.cs, InsertionSortExample.cs, MergeSortExample.cs, QuickSortExample.cs, and HeapSortExample.cs. These files provide code examples and demonstrations of each sorting algorithm.
+
+The DataStructures/ directory includes implementation files for fundamental data structures. It contains ArrayExample.cs, LinkedListExample.cs, StackExample.cs, and QueueExample.cs, each showcasing the implementation and usage of the respective data structure.
+
+The root directory also contains additional files such as BinarySearchExample.cs, demonstrating the implementation of a binary search algorithm, Program.cs, serving as the entry point of the application, and SortingAlgorithms-DataStructures-InCSharp.csproj, representing the project file that defines its structure and dependencies.
+
+
+
